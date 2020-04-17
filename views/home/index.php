@@ -101,7 +101,7 @@
                             <div class="carousel-item">
                                 <div class="col-12 col-md-4">
                                     <div class="card mb-2">
-                                        <img class="card-img-top" src="images/book-pages.jpg" alt="Livre ouvert">
+                                        <img class="card-img-top" src="images/ancient-books.jpg" alt="Livre antique">
                                         <div class="card-body">
                                             <h4 class="card-title font-weight-bold">Titre du livre 5</h4>
                                             <h4 class="card-text">Auteur</h4>
