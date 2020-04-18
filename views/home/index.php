@@ -6,15 +6,7 @@
                 <h3>En ce moment ...</h3>
                 <div class="section-preview text-center">
                     <div id="option" class="carousel slide" data-ride="carousel">
-                        <ul class="carousel-indicators">
-                            <li data-target="#option" data-slide-to="0" class="active"></li>
-                            <li data-target="#option" data-slide-to="1"></li>
-                            <li data-target="#option" data-slide-to="2"></li>
-                            <li data-target="#option" data-slide-to="3"></li>
-                            <li data-target="#option" data-slide-to="4"></li>
-                            <li data-target="#option" data-slide-to="5"></li>
-                        </ul>
-                        <!-- /.indicators pagination -->
+            
                         <div class="controls-top">
                             <a class="btn-floating ripple" href="#option" data-slide="prev"><i class="fas fa-chevron-left fa-2x"></i></a>
                             <a class="btn-floating ripple" href="#option" data-slide="next"><i class="fas fa-chevron-right fa-2x"></i></a>
@@ -221,4 +213,5 @@
     <!--/.best-selling-->
 </div>
 <!--/.grid row homepage -->
+
 <?php require '../views/partials/footer.php' ?>
