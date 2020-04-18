@@ -211,7 +211,7 @@
         </div>
         <!--/.grid row book-comment-->
     </div>
-    <!--/.best-selling-->
+    <!--/.col-md-4 .best-selling-->
 </div>
 <!--/.grid row homepage -->
 
