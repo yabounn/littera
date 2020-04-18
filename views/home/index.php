@@ -145,7 +145,7 @@
                         <img src="images/ancient-books.jpg" class="card-img" alt="Livre antique">
                     </div>
                     <div class="col-md-8">
-                        <div class="card-body">
+                        <div class="card-body book-sheet ">
                             <h5 class="card-title">Titre du livre</h5>
                             <h5 class="card-title">Auteur</h5>
                             <h6 class="card-title">Catégorie</h6>

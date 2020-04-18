@@ -10,7 +10,7 @@
     padding: 1em;
 }
 
-.card-body {
+.book-sheet {
     display: flex;
     flex-direction: column;
     margin-left: 2em;
