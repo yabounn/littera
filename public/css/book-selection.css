@@ -1,0 +1,23 @@
+.book-selection {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+.book-selection>h3 {
+    text-align: center;
+    padding: 1em;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2em;
+    padding: 0;
+    text-align: center;
+}
+
+.card-selection .card-img-left {
+    width: 60%;
+}

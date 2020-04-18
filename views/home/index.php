@@ -6,7 +6,7 @@
                 <h3>En ce moment ...</h3>
                 <div class="section-preview text-center">
                     <div id="option" class="carousel slide" data-ride="carousel">
-            
+
                         <div class="controls-top">
                             <a class="btn-floating ripple" href="#option" data-slide="prev"><i class="fas fa-chevron-left fa-2x"></i></a>
                             <a class="btn-floating ripple" href="#option" data-slide="next"><i class="fas fa-chevron-right fa-2x"></i></a>
@@ -135,31 +135,32 @@
                 <!-- /.section-preview -->
             </div>
             <!-- /.section-carousel -->
-            <div class="col-md-12 book-selection ">
-                <h3>Sélection du livre de la semaine</h3>
-                <div class="card-selection">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="images/ancient-books.jpg" class="card-img" alt="Livre antique">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">Titre du livre</h5>
-                                <h5 class="card-title">Auteur</h5>
-                                <h6 class="card-title">Catégorie</h6>
-                                <p class="card-text">This is a wider card with supporting text below as a
-                                    natural lead-in to additional content. This content is a little bit longer.
-                                </p>
-                            </div>
+        </div>
+        <!--/.carousel-set-->
+        <div class="col-md-12 book-selection ">
+            <h3>Sélection d'un livre</h3>
+            <div class="card-selection">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="images/ancient-books.jpg" class="card-img" alt="Livre antique">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Titre du livre</h5>
+                            <h5 class="card-title">Auteur</h5>
+                            <h6 class="card-title">Catégorie</h6>
+                            <p class="card-text">This is a wider card with supporting text below as a
+                                natural lead-in to additional content. This content is a little bit longer.
+                            </p>
                         </div>
                     </div>
                 </div>
-                <!--/.card-selection-->
             </div>
-            <!--/.book-selection-->
+            <!--/.card-selection-->
         </div>
-        <!--/.carousel-set-->
+        <!--/.book-selection-->
     </div>
+    <!--/.col-md-8-->
 
     <div class="col-md-4 best-selling">
         <div class="row book-comment">
