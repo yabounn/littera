@@ -75,15 +75,15 @@
                     <ul class="list-unstyled">
                         <li>
                             <p>
-                                <i class="fas fa-home mr-3"></i>12,rue de la presse 75000 Paris</p>
+                                <i class="fas fa-home mr-1"></i>12,rue de la presse 75000 Paris</p>
                         </li>
                         <li>
                             <p>
-                                <i class="fas fa-envelope mr-3"></i> thesaurilittera@gmail.com</p>
+                                <i class="fas fa-envelope mr-1"></i> thesaurilittera@gmail.com</p>
                         </li>
                         <li>
                             <p>
-                                <i class="fas fa-phone mr-3"></i> + 01 02 03 04 05</p>
+                                <i class="fas fa-phone mr-1"></i> + 01 02 03 04 05</p>
                         </li>
                     </ul>
 

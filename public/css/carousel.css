@@ -23,7 +23,8 @@
 .btn-floating {
     padding: 10px;
     /* background-color: #0069D9; */
-    background-color: #47a7f5;
+    /* background-color: #47a7f5; */
+    background-color: #b3b3b3;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 5px 15px 0 rgba(0, 0, 0, .15);
     display: inline-block;
     width: 50px;
