@@ -81,27 +81,6 @@
     display: none;
 }
 
-/* Circle in the bottom of the slide */
-.carousel-indicators {
-    bottom: -1.5em;
-}
-
-.carousel-indicators li {
-    background-color: #858383;
-    /* background-color: #DBDBFF; */
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-}
-
-.carousel-indicators .active {
-    /* background-color: #0069D9; */
-    background-color: #47a7f5;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-}
-
 .carousel-inner .carousel-item-right.active,
 .carousel-inner .carousel-item-next {
     transform: translateX(25%);
