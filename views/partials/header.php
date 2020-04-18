@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/carousel.css">
     <link rel="stylesheet" href="css/bookSelection.css">
     <link rel="stylesheet" href="css/bestSelling.css">
+    <link rel="stylesheet" href="css/bookstore.css">
     <title>Document</title>
 </head>
 <body class="d-flex flex-column h-100">

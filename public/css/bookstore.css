@@ -1,0 +1,78 @@
+.bookstore .col-md-12 {
+    text-align: center;
+}
+
+.bookstore .filter-search {
+    text-align: start;
+    padding: 0;
+}
+
+.store {
+    margin: 2em 0;
+}
+
+/*****animation book cover*****/
+
+.book-closeview {
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.46), 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.book-closeview .cover-img {
+    perspective: 1000px;
+    perspective-origin: 100%;
+    position: relative;
+    min-height: 300px;
+}
+
+.book-closeview .cover-img .front {
+    box-shadow: -1px 1px 1px 1px rgba(0,0,0,0.2);
+    background-color: #ffffff;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    transform: rotate(0deg);
+    transform-origin: 0;
+    transition: transform 1s; 
+}
+
+.thumbnail-img .card-img {
+    height: 300px;
+    padding: .1rem;
+    border-radius: 0;
+}
+
+.book-view .cover-img:hover .cover {
+    position: absolute;
+    background: linear-gradient(rgba(0,0,0,0.85),rgba(0,0,0,0.85));
+    width: 100%;
+    height: 100%;
+    box-shadow: 2px 2px 1px #47a7f5;
+    border: 2px solid #f2f2f2;
+    z-index: 5;
+    transform: rotateY(-180deg);
+    transform-style: preserve-3d;
+    /* transform: rotateY(0deg); */
+    transform-origin: left;
+    transition:transform 1s;
+}
+
+.book-closeview .cover-img:hover .back {
+    box-shadow:  1px 1px 2px rgba(0,0,0,0.46), 0 1px 3px rgba(0,0,0,0.2);
+    border: 2px solid #f2f2f2 ;
+    background-color: #ffffff;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    transform: scale(1);
+    transform: rotate(0deg);
+    transform-origin: 0;
+    transition: transform 1s; 
+}
+
+.book-closeview .cover-img .back .blue-gradient {
+    /* background: linear-gradient(40deg,#2096ff,#05ffa3); */
+    background: linear-gradient(40deg,#45cafc,#303f9f);
+    color: #ffffff;
+}
